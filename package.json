@@ -1,0 +1,32 @@
+{
+  "name": "crmapp",
+  "version": "1.0.0",
+  "description": "Customer Realtionship Management Application for projects on my portfolio.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spriggs81/crmApp.git"
+  },
+  "keywords": [
+    "crm",
+    "customer",
+    "relationship",
+    "manager",
+    "customer",
+    "relations"
+  ],
+  "author": "John Spriggs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spriggs81/crmApp/issues"
+  },
+  "homepage": "https://github.com/spriggs81/crmApp#readme",
+  "dependencies": {
+    "express": "^4.21.2",
+    "pg": "^8.13.3",
+    "pg-pool": "^3.7.1"
+  }
+}
