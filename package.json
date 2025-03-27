@@ -20,11 +20,13 @@
   ],
   "author": "John Spriggs",
   "license": "ISC",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/spriggs81/crmApp/issues"
   },
   "homepage": "https://github.com/spriggs81/crmApp#readme",
   "dependencies": {
+    "bcrypt": "^5.1.1",
     "express": "^4.21.2",
     "pg": "^8.13.3",
     "pg-pool": "^3.7.1"
